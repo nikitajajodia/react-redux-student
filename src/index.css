@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.danger {
+	color: red;
+	border: 1px solid red;
+	padding: 5px;
+}
+.success {
+	color: green;
+	border: 1px solid green;
+	padding: 5px;
+}
+
+.date-selector {
+	padding: 20px 5px;
+}
